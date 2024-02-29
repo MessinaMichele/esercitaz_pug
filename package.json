@@ -1,0 +1,25 @@
+{
+  "name": "esercitaz_pug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MessinaMichele/esercitaz_pug.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MessinaMichele/esercitaz_pug/issues"
+  },
+  "homepage": "https://github.com/MessinaMichele/esercitaz_pug#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.1.0",
+    "pug": "^3.0.2"
+  }
+}
